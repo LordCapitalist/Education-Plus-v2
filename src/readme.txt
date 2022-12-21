@@ -18,10 +18,19 @@ Npm install -g npm-run
 
 Når dette er downloaded er man klar til at kører programmet
 
-I din kodeeditor of choice skal man finde vej til hvor filen Education Plus v2 ligger og gå ind i den gennem commandprompt
-Her kan du så bruge commanden npm run dev hvor den så ville kører en lokalhostprogram på en lokal server. 
-Der ville med dette blive angivet et lokalhost link og når man har trykket på det er man inde i programmet
+I din kodeeditor of choice skal man finde vej til hvor filen Education Plus v2 ligger og gå ind i den gennem commandprompt.
+Der ville man først skulle bruge funktionen Npm install for at få alle filerne oppe at kører altså 
 
+npm install 
+
+inde i filen education plus v2
+
+Derefter kan du så bruge commanden 
+
+npm run dev
+
+hvor den så ville kører en lokalhostprogram på en lokal server. 
+Der ville med dette blive angivet et lokalhost link og når man har trykket på det er man inde i programmet
 
 Her er det meget simpelt sign in med ens email og find loginemailen (den kan være i spam)
 Derefter kan man oprette sig og lave sign account, lave en quiz eller prøve en quiz
